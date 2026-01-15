@@ -1,0 +1,18 @@
+{
+  "name": "com.relztem523.unityconsolelogger",
+  "version": "0.1.0",
+  "displayName": "Unity Console Logger",
+  "description": "Custom Unity logging provider for Microsoft.Extensions.Logging",
+  "dependencies": {
+    "org.nuget.microsoft.extensions.logging": "10.0.1",
+    "org.nuget.microsoft.extensions.logging.configuration": "10.0.1"
+  },
+  "keywords": [
+    "logging"
+  ],
+  "author": {
+    "name": "Michael Metzler",
+    "url": "https://github.com/Relztem523",
+    "email": "michaellmetzler@gmail.com"
+  }
+}
